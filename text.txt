@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="english">
+   <head>
+     <link href="style.css" rel="stylesheet" type="text/css">
+	 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+     <link rel="icon" href="/favicon.ico" type="image/x-icon">
+	 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<noscript>Sorry, your browser does not support JavaScript!</noscript>
+ <script>
+document.getElementById("demo").innerHTML = "Work In Progress";
+</script>   
+    
+    
+    <title>ⓒⓞⓓⓔⓒ ~ A Programming Website</title>
+
+  </head>
+  <body>
+<h1 style="text-align: center;">Codec - The Coding Website</h1>
+<b>
+</b>
+<br>
+<br>
+<b>
+</b>
+<br>
+<hr>
+<h2 style="text-align: center;"><span style="text-decoration: underline;">Menu</span></h2>
+<div style="text-align: center;"> <button><a href="http://codec.ga/editor.html"> Get Started </a></button> <button><a href="http://codec.ga/news.html"> News </a></button> <button><a href="http://codec.ga/check-it-out.html"> Check it out </a></button> <button><a href="http://codec.ga/log-in.html"> Log In </a></button> <button><a href="http://codec.ga/register.html"> Register </a></button></div>
+  <br>
+  <hr>
+<p>Codec is a programming website for kids using a new programming language which is easy to use called Thred2D made by MESYETI from Scratch. You will get updates on Codec via the official Codec YouTube channel at the moment <a href="https://www.youtube.com/channel/UCCGRemW-FE5MrkonVebkFCg?view_as=subscriber"> here </a></p>
+<hr>
+
+  </body>
+</html>
